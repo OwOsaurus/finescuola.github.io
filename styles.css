@@ -9,9 +9,9 @@ body {
     background-color: #f0f0f0;
   }
   
-#container {
+
+.container {
     text-align: center;
-    font-size: 40px;
 }
   
 #countdown {
